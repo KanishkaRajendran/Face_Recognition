@@ -26,8 +26,8 @@ pip install torch opencv-python numpy psutil
 
 ## Files
 
-- `deploy.prototxt`: [GitHub Link](https://github.com/your-repo/deploy.prototxt)
-- `res10_300x300_ssd_iter_140000.caffemodel`: [GitHub Link](https://github.com/your-repo/res10_300x300_ssd_iter_140000.caffemodel)
+- `deploy.prototxt`: [GitHub Link](https://github.com/KanishkaRajendran/Face_Recognition/blob/main/deploy.prototxt)
+- `res10_300x300_ssd_iter_140000.caffemodel`: [GitHub Link](https://github.com/KanishkaRajendran/Face_Recognition/blob/main/res10_300x300_ssd_iter_140000.caffemodel)
 
 ## Input Video
 
